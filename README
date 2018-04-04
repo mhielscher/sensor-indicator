@@ -1,0 +1,4 @@
+sensor-indicator
+================
+
+Ubuntu Application Indicator that queries [sensor-api][https://github.com/mhielscher/sensor-api] running on my [Orange Pi Zero][http://www.orangepi.org/orangepizero/] and displays sensor values.
